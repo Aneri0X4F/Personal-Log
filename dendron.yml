@@ -40,4 +40,5 @@ site:
         action: useVault
         payload:
             - vault
+    logo: vault/logo.gif
 initializeRemoteVaults: true
