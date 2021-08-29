@@ -2,7 +2,7 @@
 id: T3nF6bt6Sur6OEVKws3UO
 title: Lec 2
 desc: ''
-updated: 1630214292961
+updated: 1630229568384
 created: 1630177680050
 ---
 # Materials
@@ -45,3 +45,22 @@ Ionization potential | Electron Affinity |
 Measure of how likely an atom will takeup or give up an electron.
 
 ![](/assets/images/2021-08-29-10-48-07.png)
+# Bonding
+![](/assets/images/2021-08-29-15-02-35.png)
+* ## Primary Bonding
+    * **Ionic bond**: Na+Cl-
+        * Non directional, since cation(+) not only atracted by near ions but even farther ones
+        ![](/assets/images/2021-08-29-14-51-37.png)
+    * **Covalent Bond**: electrons shared between atoms
+        * Directional Bonding
+    * **Metallic**: Electrostatic force between positive ions and deloclozed outer ions.
+        * Weaker than covalent and ionic bond
+### _More difference in electronegetivity between A and B, more Ionic bond, else covalent bond_
+
+
+* ## Secondary Bond
+    * No transfer of electrons, share outer electron
+    * Interaction between dipoles
+    * Eg: H2, H2O, CH4
+* ## Vander Waals Bonding 
+![](/assets/images/2021-08-29-14-59-48.png)

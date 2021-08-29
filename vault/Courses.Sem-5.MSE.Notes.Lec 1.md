@@ -2,7 +2,7 @@
 id: EFfGFyHGgcZyWcEaIHMC3
 title: Lec 1
 desc: ''
-updated: 1630214879534
+updated: 1630228733744
 created: 1630151219131
 ---
 ## Material Science and Engineering
@@ -52,7 +52,11 @@ electrons, which must have opposite spins.
 ## Net force between 2 atoms :
 Fn = Fa(Attraction) + Fr(repulsion- due to electrons)
 ![](/assets/images/2021-08-29-00-05-31.png)
+The mod of value of E0 will be greater for stiff materials(steaper slope) and vice versa.
 ![](/assets/images/2021-08-29-10-52-56.png)
 E0 = energy req to seperate atoms to infinity.
+![](/assets/images/2021-08-29-14-48-40.png)
 ## Find whether nuclii is stable or not
 ![](/assets/images/2021-08-29-10-57-47.png)
+Double diffn of potential E eq.> 0  -->  **stable**
+![](/assets/images/2021-08-29-14-40-14.png)     
