@@ -2,7 +2,7 @@
 id: EFfGFyHGgcZyWcEaIHMC3
 title: Lec 1
 desc: ''
-updated: 1630175743329
+updated: 1630214879534
 created: 1630151219131
 ---
 ## Material Science and Engineering
@@ -21,11 +21,16 @@ created: 1630151219131
 
 * Magnitude of charge on Electrons and protons: 1.6 * 10^-19 C
 * Atomic number(Z): Number of protons
+    * Chemical identification of element
+* Masses:
+    * Proton and Neutron = 1.67 * 10^-27 kg
+    * Electron = 9.11 * 10^ -31 kg
 * Atomic mass: M(elec) + M(protons)
     * Isotopes: Same elements with diff. atomic mass
     * "amu" is the unit for atomic weight (weighted average of the atomic masses of the atom’s naturally occurring isotopes
     )
     * Atomic weight = molecular weight
+    * 1 mole = 12 grams
     * 1 mole = 6.023 * 10^23 atoms
     * 1amu/ atom = 1g/mol
 ## Quantum Mechanics: 
@@ -44,8 +49,10 @@ considered to exhibit both wave-like and particle-like characteristics.
 * Each electron state can hold no more than two
 electrons, which must have opposite spins. 
 * Thus, s, p, d, and f subshells may each accommodate, respectively, a total of 2, 6, 10, and 14 electrons.
-* Net force between 2 atoms :
-Fn = Fa(Attraction) + Fr(repulsion)
-* ![](/assets/images/2021-08-29-00-05-31.png)
-
-
+## Net force between 2 atoms :
+Fn = Fa(Attraction) + Fr(repulsion- due to electrons)
+![](/assets/images/2021-08-29-00-05-31.png)
+![](/assets/images/2021-08-29-10-52-56.png)
+E0 = energy req to seperate atoms to infinity.
+## Find whether nuclii is stable or not
+![](/assets/images/2021-08-29-10-57-47.png)
