@@ -1,3 +1,11 @@
+---
+id: w51gdQ0gRcuJd6eSUMSdf
+title: Notes1
+desc: ''
+updated: 1630900411882
+created: 1630900411882
+---
+
 ## Psycology
 * The science of behaviour and mind 
 * Application of science to solve human problems
