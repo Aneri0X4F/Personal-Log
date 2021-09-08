@@ -5,7 +5,7 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
   
-  <title>OS - Dendron</title>
+  <title>Lec 1 - Dendron</title>
   
 
   <link
@@ -43,22 +43,22 @@
 <meta name="description" content="Personal knowledge space">
 <meta name="author" content="">
 
-<link rel="canonical" href="https://aneri12345.github.io/notes/tFy23OlAvEHgWWoRF2db5.html">
+<link rel="canonical" href="https://aneri12345.github.io/notes/2HwzsBwwTFWYs5fV9TNd9.html">
 
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://aneri12345.github.io/notes/tFy23OlAvEHgWWoRF2db5.html">
+<meta property="og:url" content="https://aneri12345.github.io/notes/2HwzsBwwTFWYs5fV9TNd9.html">
 <meta property="og:description" content="Personal knowledge space">
 <meta property="og:image" content="https://aneri12345.github.io/logo.gif">
 
 <meta name="twitter:card" content="summary">
 
-<meta name="twitter:url" content="https://aneri12345.github.io/notes/tFy23OlAvEHgWWoRF2db5.html">
+<meta name="twitter:url" content="https://aneri12345.github.io/notes/2HwzsBwwTFWYs5fV9TNd9.html">
 <meta name="twitter:description" content="Personal knowledge space">
 <meta name="twitter:image" content="https://aneri12345.github.io/logo.gif">
 
 
-  <meta property="og:title" content="OS - Dendron" />
-  <meta name="twitter:title" content="OS - Dendron" />
+  <meta property="og:title" content="Lec 1 - Dendron" />
+  <meta name="twitter:title" content="Lec 1 - Dendron" />
   
 </head>
 
@@ -132,7 +132,7 @@
       
         
           <nav aria-label="Breadcrumb" class="breadcrumb-nav">
-            <ol class="breadcrumb-nav-list"><li class="breadcrumb-nav-list-item"><a href="https://aneri12345.github.io/Personal-Log">Root</a></li><li class="breadcrumb-nav-list-item"><a href="https://aneri12345.github.io/Personal-Log/notes\16jEZVVz0jb3JFwU1QZyi.html">Courses</a></li><li class="breadcrumb-nav-list-item"><a href="https://aneri12345.github.io/Personal-Log/notes\0dq74Ji6Sqc5B99r7PET2.html">Sem-5</a></li><li class="breadcrumb-nav-list-item">OS</li></ol>
+            <ol class="breadcrumb-nav-list"><li class="breadcrumb-nav-list-item"><a href="https://aneri12345.github.io/Personal-Log">Root</a></li><li class="breadcrumb-nav-list-item"><a href="https://aneri12345.github.io/Personal-Log/notes\16jEZVVz0jb3JFwU1QZyi.html">Courses</a></li><li class="breadcrumb-nav-list-item"><a href="https://aneri12345.github.io/Personal-Log/notes\0dq74Ji6Sqc5B99r7PET2.html">Sem-5</a></li><li class="breadcrumb-nav-list-item"><a href="https://aneri12345.github.io/Personal-Log/notes\tFy23OlAvEHgWWoRF2db5.html">OS</a></li><li class="breadcrumb-nav-list-item"><a href="https://aneri12345.github.io/Personal-Log/notes\bbBsU0WVTftvnCT4UDrAT.html">Notes</a></li><li class="breadcrumb-nav-list-item">Lec 1</li></ol>
           </nav>
         
       
@@ -168,10 +168,10 @@
 <div id="main" role="main">
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="OS">
+    <meta itemprop="headline" content="Lec 1">
     
-    <meta itemprop="datePublished" content="2021-09-06T09:21:17+00:00">
-    <meta itemprop="dateModified" content="2021-09-06T09:21:17+00:00">
+    <meta itemprop="datePublished" content="2021-08-31T15:56:29+00:00">
+    <meta itemprop="dateModified" content="2021-09-01T09:14:28+00:00">
 
     <div class="page__inner-wrap">
 
@@ -181,12 +181,52 @@
 
         
 
-        <h1 id="os"><a aria-hidden="true" class="anchor-heading" href="#os"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>OS</h1>
-<hr>
-<h2 id="children"><a aria-hidden="true" class="anchor-heading" href="#children"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Children</h2>
-<ol>
-<li><a href="https://aneri12345.github.io/Personal-Log/notes/bbBsU0WVTftvnCT4UDrAT.html">Notes</a></li>
-</ol><span id="navId" data="tFy23OlAvEHgWWoRF2db5"></span>
+        <h1 id="lec-1"><a aria-hidden="true" class="anchor-heading" href="#lec-1"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Lec 1</h1>
+<h2 id="block-suspend-to-block"><a aria-hidden="true" class="anchor-heading" href="#block-suspend-to-block"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Block suspend to block</h2>
+<p>Block suspend is waiting for event to occur in near future, and t is very high priority process, then OS will bring BS to B </p>
+<h2 id="suspended-process"><a aria-hidden="true" class="anchor-heading" href="#suspended-process"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Suspended process</h2>
+<ul>
+<li>not immediately available- in sec mem</li>
+<li>if process in waiting condition: (the process might be block suspend state - it is independ of suspend condition - not necessary it will get executed after unblocked)</li>
+<li>not waiting: ready state</li>
+<li>possible, process itself puts itself in suspend mode when it nkows it has to wait....(recording for more)
+<img src="/Personal-Log/assets/images/2021-09-01-08-33-08.png"></li>
+</ul>
+<h2 id="if-process-is-waiting-for-main-memory"><a aria-hidden="true" class="anchor-heading" href="#if-process-is-waiting-for-main-memory"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>If process is waiting for main memory:</h2>
+<ul>
+<li>State of this process - suspended process</li>
+<li>virtual memory - some space "considered" as main mem but not. Behaves as extended mem.
+<img src="/Personal-Log/assets/images/2021-09-01-08-42-00.png"></li>
+</ul>
+<h2 id="pcb"><a aria-hidden="true" class="anchor-heading" href="#pcb"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>PCB</h2>
+<ul>
+<li>process control block</li>
+<li>Process identification: 
+<ul>
+<li>unique identifier for each process by process id</li>
+<li>same for its parent by maintaining its parent id and user id</li>
+<li>total 3 id</li>
+</ul>
+</li>
+</ul>
+<h2 id="processor-state-information"><a aria-hidden="true" class="anchor-heading" href="#processor-state-information"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Processor state information</h2>
+<ul>
+<li>Control and status registers
+<ul>
+<li>Program counter: address of next instruction to be fetched</li>
+<li>condition codes</li>
+<li>status info : enabled/ idsabled falgs</li>
+</ul>
+</li>
+<li>stack pointer</li>
+<li>process control information
+<ul>
+<li>process state(running/ready/blocked): scheduling a state info</li>
+<li>inter process communication IPC</li>
+<li>process privilages</li>
+</ul>
+</li>
+</ul><span id="navId" data="2HwzsBwwTFWYs5fV9TNd9"></span>
 
                 
       </section>
