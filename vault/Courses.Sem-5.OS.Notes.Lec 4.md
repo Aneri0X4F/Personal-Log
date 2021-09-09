@@ -7,6 +7,7 @@ created: 1630900277699
 stub: true
 ---
 
+
 # Process: Description and Control
 
 4 imp functions of os
