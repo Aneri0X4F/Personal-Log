@@ -2,7 +2,7 @@
 id: tFy23OlAvEHgWWoRF2db5
 title: OS
 desc: ''
-updated: 1631176838292
+updated: 1631296140714
 created: 1630900277699
 stub: true
 ---
@@ -13,26 +13,26 @@ stub: true
 4 imp functions of os
 * File management
 * Memory management
-* Process management
+* Process management - Fundamental task
 * IO management 
 
 ## Requirements of OS as a Process Manager
 * Interleave the execution of multiple processes. Here we assume that there is always a single processor system.
-* Allocate resources to processes and protect them from each other.
+* Allocate resources to processes and protect them from each other especially in the case where both processes are using same files, to avoid any clashes.
 * Enable process to share and exchange information. Eg. Parent and Child processes.
 * Enable synchronization among processes.
 
-## Process
+## What is a Process?
 * Program in execution.
 * Instance of program running
 * Entity that can be assigned to and executed on a processor
-* **Unit of activity defined by program, its states and its associated resources.**
+* **Unit of activity characterized by the execution of a sequence of instructions, a current state and an associated set of resources**
 * Process Elements
     * Program code (generally shared)
     * Set of data
     * Attributes that describes the state
     
-## Attributes
+## Attributes - maintained in PCB
 * Indentifier - Unique ID of each process
 * State - Current situation of the process (Either running or not running)
 * Priority - Self explanatory
@@ -42,10 +42,10 @@ stub: true
 * I/O status information - Eg. List of files in use by the process etc.
 * Accounting information - Eg. Time limits, clocks used etc.
 
-> In short the attributes can be called as meta-data.
+> _In short the attributes can be called as meta-data_ (things apart from the program and data, these are the things which manage and drive the process).
 
 ## Process Control Block (PCB)
-* All the attributes discussed above are part of this block.
+* All the attributes discussed above are maintained in this block.
 * Basically, it is a type of data structure.
 
 > **Thus, process is a combination of program code, associated data and PCB**
@@ -77,8 +77,7 @@ stub: true
 
 ## Note
 * The below picture lists conditions under which a process can be created or terminated.
-* ![](/assets/images/2021-08-29-15-16-50.png)
-
+![](/assets/images/2021-09-10-23-18-55.png)
 * Process spawning means event where a process creates a new process.
 
 ## 5-State Process Model
