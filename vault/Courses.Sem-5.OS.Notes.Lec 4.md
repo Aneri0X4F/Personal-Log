@@ -2,7 +2,7 @@
 id: tFy23OlAvEHgWWoRF2db5
 title: OS
 desc: ''
-updated: 1631296140714
+updated: 1631341847442
 created: 1630900277699
 stub: true
 ---
@@ -84,33 +84,36 @@ stub: true
 * Conditions when the process which is running will pause and enter in the queue:
     * Time slot alloted to the process is over.
     * Made some I/O request which may take time.
-* Now, dispatcher needs to identify which processes are ready to be executed and then dispatch it from the middle of the queue.
-* This process is time consuming and complex.
-* To resolve this, OS must maintain multiple queues. Since there are two types of processes, one who did not terminate but their allocated time got over and others who are waiting for I/O or other resouces.
-* This, in turn is the 5-state process model.
+* Now, dispatcher needs to identify which processes are ready to be executed and then_ dispatch it from the middle of the queue._ This process is **time consuming and complex.**
+* **Solution:**  OS must maintain multiple queues. Since there are two types of processes
+    * Waiting - one who did not terminate but their allocated time got over and others who are waiting for I/O or other resouces.
+    * Others that are ready to be dispatched and timeout ones (alloted time is over).
+*  _**This, in turn is the 5-state process model.**_
 * Total states in this model
-    * New - Process that has just been created but not admitted to the pool of the ready state processes.
+    1. New - Process that has just been created but not admitted to the pool of the ready state processes.
         * **Not loaded in main memory but is created.**
         * This means that PCB for that process has been created but its corresponding data and program has not been loaded/created in the main memory.
-    * Ready
-    * Blocked/Waiting
-    * Running
-    * Exit (Earlier it was not a state but now it is) - Process which has been released from the pool of processes.
+    2. Ready - DS: queue
+    3. Blocked/Waiting - DS: queue
+    4. Running 
+    5. Exit (Earlier it was not a state but now it is) - Process which has been released from the pool of processes.
         * However, there is some part of PCB left in main memory for accounting.
 
-![](/assets/images/2021-08-29-15-32-07.png)
+![](/assets/images/2021-09-11-11-43-14.png)
 
 ## State Transitions
 
-* ![](/assets/images/2021-08-29-15-36-29.png)
+![](/assets/images/2021-09-11-11-51-30.png)
 
 * Ready and Blocked process can enter directly to exit state when its parent process has terminated or the process is terminated by the OS.
 * When process spawning occurs, then child process is created in the new state.
-* Hang state is equivalent to blocked/waiting state.
+* Hang state is equivalent to blocked/waiting state. If we remove it, it is directly moved to exit from ready state.
+![](/assets/images/2021-09-11-11-54-33.png)
+* **Problems** - 
+    * Suppose there are 10 processes which are in blocked queue waiting for HDD to get accesible and there are 90 processes that are in hang mode.
+    * Now once HDD is ready to be accessed, OS will have to search this blocked queue and move all these processes to ready state.
+    * This is again time consuming and complex. Hence **multiple blocked queue model emerged**.
+
 
 ## Multiple Blocked Queue
-* Suppose there are 10 processes which are in blocked queue waiting for HDD to get accesible and there are 90 processes that are in hang mode.
-* Now once HDD is ready to be accessed, OS will have to search this blocked queue and move all these processes to ready state.
-* This is again time consuming and complex. Hence multiple blocked queue model emerged.
-
-![](/assets/images/2021-08-29-15-48-46.png)
+![](/assets/images/2021-09-11-11-57-07.png)
