@@ -2,7 +2,7 @@
 id: w51gdQ0gRcuJd6eSUMSdf
 title: Notes1
 desc: ''
-updated: 1630900411882
+updated: 1631426806797
 created: 1630900411882
 ---
 
@@ -35,15 +35,15 @@ created: 1630900411882
 ## Gestalt psycologist 
 * Mind works as whole and not in parts
 * Mind triesto find patterns
-![](2021-09-05-00-31-03.png)
+![](/assets/images/2021-09-05-00-31-03.png)
 ## Organisational Behaviour Model
 * Framework: Input, Process, Output
 * EG:  
     * **Individual level:** Humans are the inputs, feelings/emotions are process, output is our work
     * **Group Level:** coordination etc
     * **Organisation level:** culture, structure
-    ![](2021-09-05-11-51-39.png)
-    ![](2021-09-05-11-54-58.png)
+    ![](/assets/images/2021-09-05-11-51-39.png)
+    ![](/assets/images/2021-09-05-11-54-58.png)
 ## Learning
 Relatively permenant change in ones behaviour due to an experience(affecting ones sensory systems)
 ## Classical conditioning
@@ -58,9 +58,9 @@ Relatively permenant change in ones behaviour due to an experience(affecting one
 * **Vicarious reinforceents** - Not necessary to behave in perticular manner to know output, you can observe and and reinforce some actions
 * People respond on how they percieve and define consequences NOT to the objective consequences. **_Can be different_**
 ## Johari window
-![](2021-09-06-08-29-17.png)
-![](2021-09-06-08-29-42.png)
-![](2021-09-06-08-30-03.png)
-![](2021-09-06-08-30-19.png)
+![](/assets/images/2021-09-06-08-29-17.png)
+![](/assets/images/2021-09-06-08-29-42.png)
+![](/assets/images/2021-09-06-08-30-03.png)
+![](/assets/images/2021-09-06-08-30-19.png)
 ## Piaget's Theory
 * Children learn by exploring and playing
