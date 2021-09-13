@@ -2,7 +2,7 @@
 id: YlQxD7xSRYQffBRII2nDa
 title: Lec 6
 desc: ''
-updated: 1631427335002
+updated: 1631535969927
 created: 1631427335002
 ---
 
@@ -10,19 +10,19 @@ created: 1631427335002
 # Steel and Ceramics
 
 ## Stainless Steel
-* ![](/assets/images/2021-09-11-10-25-39.png)
-* Chromium oxide layer is impervious layer. This means that chromium layer is non-porous.
+* ![](/assets/images/2021-09-13-17-50-45.png)
+* Chromium oxide layer is impervious layer. This means that **chromium layer is non-porous.**
 * If there is a small scratch in steel objects, then the chromium oxide layer is ripped off and the inner (iron) metal is exposed.
 * This is the place where you may see corrosion in steel objects.
-* Bidriware
-    * ![](/assets/images/2021-09-11-10-31-28.png)
+* **Bidriware**
+    * ![](/assets/images/2021-09-13-17-54-08.png)
     * Made using zinc, copper and silver.
     * Zinc and silver provide silvery appearance and copper provides a bit of yellow appearance.
     * This black layer appears because of alloy of zinc and copper. Silver is very low in quantity.
-    * First zinc and copper is melted and then the object is dipped in copper sulphate solution to obtain a blackish color.
+    * **First zinc and copper is melted and then the object is dipped in copper sulphate solution to obtain a blackish color.**
     * This black is temporary.
-    * Now, with metallic stylus, designs are engraved. It is a very sharp metallic point/tool.
-    * Then, they take silver wire and hammer it in those grooves and thus this silver design is made. This is called silver inlay.
+    * _Now, with metallic stylus, designs are engraved. It is a very sharp metallic point/tool._
+    * Then, they take silver wire and hammer it in those grooves and thus this silver design is made. This is called **silver inlay**.
     * Now, to smoothen the surface, it is polished. With regorous polishing, all the temporary black goes away and the entire silvery surface turns white.
     * In final preparation, **mud of bidar** + water + dilute ammonium chloride and a dough is made and then you rub this object.
     * By doing this, all the zinc area becomes permanent black.
@@ -37,7 +37,7 @@ created: 1631427335002
 * To overcome this problem, we heat the clay at very high temperature and as a result, it becomes very hard and dense.
 * So basically, on heating we are removing water and hence it looses its plasticity.
 * Terracotta army
-    * ![](/assets/images/2021-09-11-11-02-41.png)
+    * ![](/assets/images/2021-09-13-18-09-34.png)
     * Terra means earth
     * Terracota is basically fired clay.
     * Brick is made of terracota.
