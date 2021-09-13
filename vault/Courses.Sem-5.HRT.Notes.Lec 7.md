@@ -2,10 +2,9 @@
 id: 4yCdo5gyRPwefXXyuaBgC
 title: Lec 7
 desc: ''
-updated: 1631427338958
+updated: 1631551088240
 created: 1631427338958
 ---
-
 
 # Ceramic and Intro to Wood
 
@@ -21,10 +20,10 @@ created: 1631427338958
 * As a result, the clay will disintegrate immediately. Same applies for cooling too. You have to cool the clay very slowly.
 
 ## Colors of material at different temperature
-* ![](/assets/images/2021-09-12-09-26-10.png)
+* ![](/assets/images/2021-09-13-22-04-32.png)
 
 ## Quartz Inversion Temperature
-* ![](/assets/images/2021-09-12-09-26-43.png)
+* ![](/assets/images/2021-09-13-22-06-48.png)
 * Quartz is silicon dioxide (SiO2) and has a trigonal crystalline structure called as alpha-quartz.
 * At 573 degrees it gets converted into beta-quartz which is hexagonal in shape.
 * So now, it holds clay at 6 points unlike earlier where it holded clay at only 3 points.
@@ -35,13 +34,13 @@ created: 1631427338958
 
 ## Sintering
 * This is the next phase of clay firing starting at 900 degrees.
-* ![](/assets/images/2021-09-12-09-33-49.png)
+* ![](/assets/images/2021-09-13-22-07-10.png)
 * **After this phase, the water will be retained because of fusion of clay particles.**
 * Pores get removed due to exertion of pressure on each silica particle.
 * This process is called **solid phase sintering.**
 
 ## Vitrification
-* ![](/assets/images/2021-09-12-09-41-09.png)
+* ![](/assets/images/2021-09-13-22-07-31.png)
 * After solid phase sintering, there might be some pores that are still left which may allow water to pass.
 * Thus, this next phase is crucial to cover all the pores.
 * In order to lower the melting point of silica, flux is added.
@@ -53,7 +52,7 @@ created: 1631427338958
 * **Here, note that silica particles are not melting. It is the flux that is melting.**
 
 ## Glazing
-* ![](/assets/images/2021-09-12-09-52-17.png)
+* ![](/assets/images/2021-09-13-22-08-03.png)
 * It beautifies clay by giving it a feel of glass.
 * **Vitreous means glassy.**
 

@@ -2,7 +2,7 @@
 id: YlQxD7xSRYQffBRII2nDa
 title: Lec 6
 desc: ''
-updated: 1631535969927
+updated: 1631550831180
 created: 1631427335002
 ---
 
@@ -46,13 +46,13 @@ created: 1631427335002
 * It is majorly found in Gandhara, Afghanistan.
 
 ## Types of clay
-* ![](/assets/images/2021-09-11-11-15-46.png)
+* ![](/assets/images/2021-09-13-22-02-08.png)
 * Terracota comes under erathenware. It gets red color due to inclusion of iron.
 * Bone china is a type of porcelain and fired at 1350 degrees and is mostly white in color.
 * White colored clay called kaolin is used to make bone china.
 
 ## Stages of clay
-* ![](/assets/images/2021-09-11-11-18-04.png)
+* ![](/assets/images/2021-09-13-22-03-44.png)
 * Bisuqe is also called as bicuit firing and is the first firing stage.
 
 ## Extra Points
