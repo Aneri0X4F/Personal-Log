@@ -2,7 +2,7 @@
 id: HsP5QBlw4t05MqvQPn5Bo
 title: Lec 4
 desc: ''
-updated: 1631427326275
+updated: 1631511054365
 created: 1631427326275
 ---
 
@@ -16,12 +16,12 @@ created: 1631427326275
 * **Magnetic effect** is used to detect how much **core metal** is left and how much **rust** is formed.
 
 ## Electrochemical Series
-* ![](/assets/images/2021-09-10-22-24-30.png)
+* Li, K, Ca, Na, Mg, Al, Zn, Fe, Sn, Pb, H, Cu, Hg, Ag, Au
 * The metals here are placed according to their decreasing reactivity. Hence, going down the electrochemical series, the reactivity will decrease.
 * Thus, gold is the least reactive metal and hence it is sometimes also called as noble metal.
 * It basically does not react with anything. It only dissolves in aqua regia.
-* Pure copper does not rust/corrode easily and hence they are used for electrical installations. Another reason for that use is that it is an excellent conductor of electrivity.
-* ![](/assets/images/2021-09-10-22-29-17.png)
+> Pure copper does not rust/corrode easily and hence they are used for electrical installations. Another reason for that use is that it is an excellent conductor of electrivity.
+* ![](/assets/images/2021-09-13-09-00-03.png)
 * Oxidation 
     * When a metal looses electron. 
     * The power to loose electron is called oxidation potential.
@@ -31,11 +31,12 @@ created: 1631427326275
     * The power to gain electron is called reduction potential.
     * Lesser reactive metals have higher reduction potential than more reactive metals.
 * Reducing agent is a more reactive metal that displaces a metal from its sulfate state and vice versa.
-* In metallic terms, oxidation is also called corrosion.
+* In metallic terms, **_oxidation is also called corrosion_**.
+* Rust - Iron Oxide
 
 ## Galvanic Cell
 * Also known as Voltaic cell or Daniel cell or Electrochemical cell
-* ![](/assets/images/2021-09-10-22-39-33.png)
+* ![](/assets/images/2021-09-13-10-27-54.png)
 * Electrode is a solid electrical conductor that carries a current. Two types include anode and cathode.
 * Zinc acts as anode and copper acts as cathode.
 * Electrolyte (Salt Bridge) is of vital importance as it completes the circuit for current to flow.
@@ -48,15 +49,18 @@ created: 1631427326275
 
 ## Tarnising of silver
 * Silver is almost a noble metal and hence it is very difficult for it to corrode.
-* ![](/assets/images/2021-09-10-22-53-23.png)
-* Color is black.
-* Oxygen can not harm silver but sulfur can.
+* Tarnish color is black.
+* There is NO formation of oxygen
+* Oxygen can not harm silver but sulfur can. 
+![](/assets/images/2021-09-13-10-55-23.png) 
 * Only on the surface.
 * We preserve tarnished silver to preserve silver and it also represent age and authenticity in silver artifacts.
-* Patina is just a layer and surface discoloration. It is a surface phenomena.
-* Silver sulfide layer is called as noble patina because it is non reactive.
-* Oxide layer on broze is blackish in color or called as blackish patina.
-* Cuprous oxide layer is brownish in color and later it will change to cupric oxide which is more stable and is blackish in color.
+* **Patina** is just a layer and surface discoloration. It is a surface phenomena.
+* Silver sulfide layer is called as **noble patina** because it is non reactive.
+
+> Oxide layer on broze is blackish in color or called as blackish patina.
+
+> Cuprous oxide layer is brownish in color and later it will change to cupric oxide which is more stable and is blackish in color.
 
 ## Types of oxide
 * Unstable metal oxide - Gold, Silver and Platinum

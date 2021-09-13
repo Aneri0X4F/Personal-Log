@@ -2,7 +2,7 @@
 id: T1DFTigTcsaqVIdocuBQ3
 title: Lec 5
 desc: ''
-updated: 1631427330628
+updated: 1631533296872
 created: 1631427330628
 ---
 
@@ -16,18 +16,18 @@ created: 1631427330628
     * Sulphate
     * Acetate
     * Chloride
-* Those patina which is protective in nature is called noble patina and those that are corrosive in nature are called malignant patina.
+* Those patina which is protective in nature is called **Noble patina** and those that are corrosive in nature are called malignant patina.
 * Cuprous oxide (Brown) and cupric oxide (Black) is noble patina as they do not react and protect copper metal.
-* Greenish layer deposited on copper is carbonate layer.
-    * It is also known as malachite.
-    * **Noble patina** but in very rare cases it is malignant patina.
+> Greenish layer deposited on bronze is carbonate layer.
+     It is also known as malachite. Noble patina but in very rare cases it is malignant patina.
 * **Malignant Patina (Bronze Disease)**
     * Bronze metals form chloride layer (atacamite and nantokite).
-    * ![](/assets/images/2021-09-11-00-05-28.png)
-      ![](/assets/images/2021-09-11-00-06-37.png)
+    * Chloride is porous
+    * ![](/assets/images/2021-09-13-17-10-56.png)
+      ![](/assets/images/2021-09-13-17-11-31.png)
 
 ## Malachite and Azurite formation
-* ![](/assets/images/2021-09-10-23-50-53.png)
+* ![](/assets/images/2021-09-13-16-54-55.png)
 * Two forms of carbonate layer.
 * Carbonate ions are formed when carbon dioxide is dissoved in water.
 * We may also get carbonic acid in a similar fashion.
@@ -36,7 +36,7 @@ created: 1631427330628
 * Oxidation number is the charge an element has in a compound/molecule.
 
 > If in the environment, if you have a lot of CO2, then what will you get? (Azurite or Malachite)
-* We will get azurite as in more CO2 concentrated areas, it is a stable carbonate layer.
+* We will get azurite(green color) as in more CO2 concentrated areas, it is a stable carbonate layer.
 
 ## Iron Oxide
 * Nature of Fe2O3 is unstable (doubtfull) and porous

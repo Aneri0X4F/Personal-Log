@@ -2,7 +2,7 @@
 id: w51gdQ0gRcuJd6eSUMSdf
 title: Notes1
 desc: ''
-updated: 1631426806797
+updated: 1631527974015
 created: 1630900411882
 ---
 
@@ -64,3 +64,39 @@ Relatively permenant change in ones behaviour due to an experience(affecting one
 ![](/assets/images/2021-09-06-08-30-19.png)
 ## Piaget's Theory
 * Children learn by exploring and playing
+
+## Zone of proximal development
+![](/assets/images/2021-09-13-14-49-31.png)
+* You will need help to bring the outermost layer to innermost layer
+* What to do with the conflicts arizing from differnt perpectives.
+* **Perception** is to organize and interpret sensory to give meaning to our environment
+* Perception is influenced by
+    * **Perceiver -**
+        * Attitude
+        * Motives
+        * Interests
+        * Experiences
+        * Expectations
+    * **Target**
+        * Novety
+        * Motion
+        * Sounds
+        * Background
+        * Proximity
+        * Similarity
+        * Size
+    * **Situation/ Context**
+        * Time
+        
+**I** didnt **kill** **18** **children**.
+
+1. Perciever:  
+* Motives of the girl were different
+* Attitude of the man/ hero + the one who hit the car towards the preg lady.
+* Expectation in 1st part, girl thought he will support her
+
+2. Target - Sounds-music when boy gets out of the car
+* background - crowd
+* similarity - the hitter and the hero was of same strength in boys version
+
+3. Time/ situation - barren/time when no one was there 
