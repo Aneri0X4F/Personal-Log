@@ -2,7 +2,7 @@
 id: w51gdQ0gRcuJd6eSUMSdf
 title: Notes1
 desc: ''
-updated: 1631527974015
+updated: 1631874338653
 created: 1630900411882
 ---
 
@@ -87,8 +87,7 @@ Relatively permenant change in ones behaviour due to an experience(affecting one
         * Size
     * **Situation/ Context**
         * Time
-        
-**I** didnt **kill** **18** **children**.
+
 
 1. Perciever:  
 * Motives of the girl were different
@@ -100,3 +99,36 @@ Relatively permenant change in ones behaviour due to an experience(affecting one
 * similarity - the hitter and the hero was of same strength in boys version
 
 3. Time/ situation - barren/time when no one was there 
+
+* How to resolve conflict?
+    1. motive and interest
+    2. intention
+# Attribution theory
+* whether the behaviour can be attributed ot a person or a situation
+* person - internal attributon (scared easily ,from pppy)
+* environment - exernal attribution
+## 3 ques to know External or Internal Attribution (DISCCO CAB)
+* How does this person behave in different situation?
+![](/assets/images/2021-09-17-14-59-21.png)
+* How others behave in similar situation?
+![](/assets/images/2021-09-17-15-00-32.png)
+* How this person behaved overtime in the similar tasks?
+![](/assets/images/2021-09-17-15-01-35.png)
+![](/assets/images/2021-09-17-15-07-52.png)
+## What is necessary for making judgement?
+![](/assets/images/2021-09-17-15-29-04.png)
+* THere are errors and bias in our judgement 
+    1. ![](/assets/images/2021-09-17-15-30-45.png)
+## **Shortcuts in judging others**
+* Selective Perception - tendency to choose to inetrpret what one sees based on ones intrerest, background, experience and attitude.
+![](/assets/images/2021-09-17-15-49-31.png)
+![](/assets/images/2021-09-17-15-51-10.png)
+
+
+           
+**I** didnt **kill** **18** **children**.
+
+
+
+## Assignment 1 - Explain by observing by surroundings or record videos/ enact.
+## Assignment 2 - take a webseris or videos, explain any 3 concepts from the class discussion. and explain how they are visible
