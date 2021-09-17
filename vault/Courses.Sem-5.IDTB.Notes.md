@@ -2,7 +2,7 @@
 id: w51gdQ0gRcuJd6eSUMSdf
 title: Notes1
 desc: ''
-updated: 1631874338653
+updated: 1631874449057
 created: 1630900411882
 ---
 
@@ -130,5 +130,5 @@ Relatively permenant change in ones behaviour due to an experience(affecting one
 
 
 
-## Assignment 1 - Explain by observing by surroundings or record videos/ enact.
+## Assignment 1 - Explain 3 concepts by observing by surroundings or record videos/ enact. Combined 5 mmin total.
 ## Assignment 2 - take a webseris or videos, explain any 3 concepts from the class discussion. and explain how they are visible
