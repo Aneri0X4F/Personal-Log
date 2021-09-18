@@ -2,7 +2,7 @@
 id: w51gdQ0gRcuJd6eSUMSyf
 title: Lec 8
 desc: ''
-updated: 1631972745697
+updated: 1631984283722
 created: 1630900411882
 ---
 ## Viva questions
@@ -77,6 +77,7 @@ created: 1630900411882
 * Dispiration
 3. 2D - Surface Defact
 * Surface
+    * Atoms quiet out 
 * Interphase boundary
 * Grain Boundary
 * Twin Boundary
