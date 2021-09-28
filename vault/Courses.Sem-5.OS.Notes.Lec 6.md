@@ -2,7 +2,7 @@
 id: 275oHnSOurASwRFVYefgE
 title: Lec 6
 desc: ''
-updated: 1631426889126
+updated: 1632761177087
 created: 1631366699202
 ---
 ## Recap
@@ -26,7 +26,7 @@ created: 1631366699202
     * Creating or expanding other data structures.
 
 ## Process Switching
-* For small amount of time, some process will run and then other will run. This time is very small and hence we see it like all the processes are running parallely.
+* For small amount of time, some process will run and then other will run. This time is very sm all and hence we see it like all the processes are running parallely.
 * Thus, when one process goes away and other process needs to be loaded, this is called process switching.
 * Process switching is totally different than mode switching. In a process execution, there may occur mode switching. 
 * Mode switching means switching from user to kernal mode vice versa.
@@ -52,9 +52,14 @@ created: 1631366699202
     * ![](/assets/images//assets/images/2021-09-06-08-33-06.png)
 
 ## Different designs
-* Non-process Kernel
+* Non-process (seperate krnal)
+    * Kernel
+    * kernel was not aconsidered as process since it had its own data struct etc.
 * Execution within User Processes
     * ![](/assets/images//assets/images/2021-09-06-08-36-42.png)
+    * no witching of process.
+    * each process had seperate OS and kenel was implemented directly. 
+
 * Process-based OS
     * ![](/assets/images//assets/images/2021-09-06-08-37-48.png)
     * More like microkernel architecture.
@@ -66,7 +71,7 @@ created: 1631366699202
 * User Processes
     * User mode to execute user programs and utilities.
     * Kernel mode to execture instructions that belong to kernel
-* Process with ID 1 = Linux boots and creates a swapper process which in turn creates init process with ID = 1.
+* Process with ID 0 = Linux boots and creates a **swapper** process which in turn creates init process with ID = 1.
 * This init process creates all the process required to run Linux on boot up.
 * init process works only in kernel mode.
 * Some other process that execute only in kernel mode include dispatcher etc.

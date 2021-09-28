@@ -2,7 +2,7 @@
 id: T3nF6bt6Sur6OEVKws3UO
 title: Lec 2
 desc: ''
-updated: 1630229568384
+updated: 1632019963858
 created: 1630177680050
 ---
 # Materials
@@ -64,3 +64,6 @@ Measure of how likely an atom will takeup or give up an electron.
     * Eg: H2, H2O, CH4
 * ## Vander Waals Bonding 
 ![](/assets/images/2021-08-29-14-59-48.png)
+
+## Determine structure of a crystal 
+* Using **X-Ray difractogram**

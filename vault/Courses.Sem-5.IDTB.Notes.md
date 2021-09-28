@@ -2,7 +2,7 @@
 id: w51gdQ0gRcuJd6eSUMSdf
 title: Notes1
 desc: ''
-updated: 1631874449057
+updated: 1632132728007
 created: 1630900411882
 ---
 
@@ -120,15 +120,19 @@ Relatively permenant change in ones behaviour due to an experience(affecting one
 * THere are errors and bias in our judgement 
     1. ![](/assets/images/2021-09-17-15-30-45.png)
 ## **Shortcuts in judging others**
+* Funamental attribution error - when we judge oothers, we tend to over estimate the effects of other factors.
 * Selective Perception - tendency to choose to inetrpret what one sees based on ones intrerest, background, experience and attitude.
 ![](/assets/images/2021-09-17-15-49-31.png)
 ![](/assets/images/2021-09-17-15-51-10.png)
 
-
+Contrast effect - you are an interviewer, 1st,2nd,3rd candidate is pathetic, 4th slight bet ter. score to 4th is slight higher than the ideal score.
            
 **I** didnt **kill** **18** **children**.
 
-
+employee - get to kno wabout interests and expectations about your boss
+- motive
+- interests
+- expecttatoions are key drivers.
 
 ## Assignment 1 - Explain 3 concepts by observing by surroundings or record videos/ enact. Combined 5 mmin total.
 ## Assignment 2 - take a webseris or videos, explain any 3 concepts from the class discussion. and explain how they are visible

@@ -2,7 +2,7 @@
 id: NgGHN4z02Wdn32M4wOgtK
 title: Lec 3
 desc: ''
-updated: 1630244367543
+updated: 1632293003948
 created: 1630232210576
 ---
 # Crystal Lattice
@@ -17,6 +17,7 @@ Only geometrical propery are of interest
 * SC - 6
 * BCC - 8
 * FCC - 12
+* HCP - 12
 ## Atomic packing factor
 APF = Vol of atoms in 1 unit cell/ Total vol of unit cell
 SC = 52% = (PI/6)
