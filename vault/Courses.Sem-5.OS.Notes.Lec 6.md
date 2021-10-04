@@ -2,7 +2,7 @@
 id: 275oHnSOurASwRFVYefgE
 title: Lec 6
 desc: ''
-updated: 1632761177087
+updated: 1632825111474
 created: 1631366699202
 ---
 ## Recap
@@ -72,7 +72,7 @@ created: 1631366699202
     * User mode to execute user programs and utilities.
     * Kernel mode to execture instructions that belong to kernel
 * Process with ID 0 = Linux boots and creates a **swapper** process which in turn creates init process with ID = 1.
-* This init process creates all the process required to run Linux on boot up.
+* This init process creates all the process required to run Linux on boot up. Init process is the parent of all processes.
 * init process works only in kernel mode.
 * Some other process that execute only in kernel mode include dispatcher etc.
 * States
@@ -88,16 +88,26 @@ created: 1631366699202
     * A process in UNIX is a set of DS that provide the OS with all the information necessary to manage and dispatch processes.
     * Process image in UNIX can be categorized as follows
         * User-Level Context
-            * ![](/assets/images//assets/images/2021-09-09-11-14-50.png)
+            * Process text - executable machine instructions for program
+            * Process data - data used by the process
+            * User stack - conatins arguments, local variabels, pointers for executing user mode
+            * Shared memory - memory shared with other processes, used for innterprocess communication.
         * Register Context
-            * ![](/assets/images//assets/images/2021-09-09-11-15-08.png)
+            * Program counter - address of next instruction to be executed
+            * Processor state register - has different flag
+            * stack pointer - points to top of kernel or user stackdepending on mode of execution.
+            * General purposee registers - hardware dependent
         * System-Level Context
-            * ![](/assets/images//assets/images/2021-09-09-11-15-54.png)
+            * Process table entry - defines state of a process - STATIC
+                * contains data of a process that must be always accessible to kernel
+            * U area - PCB is divided in 3 parts - 3rd - any specific info of a process in U area is only accisible when that process is in running state. - DYNAMIC
+            * per process region table - STATIC 
+            * kernel stack - maintaining system level context - DYNAMIC
             * Most of the information regarding PCB is maintained in process table and they **must be accessible to kernel.**
             * U Area - Most of the process control information is present in U area. This is also a part of PCB. However, majority of information related to PCB is present in Process table.
             * Information in U area is accessible to a process only if it is in running state.
             * 1st and 3rd are static DS means they will not change during the life of a process.
-            * 2nd and 4th are dynamic data structure and will change according to various states of the process.
+            * 2 - process control info. nd and 4th are dynamic data structure and will change according to various states of the process.
 * Process Creation in UNIX
     * fork() is used to create new processes.
     * ![](/assets/images//assets/images/2021-09-09-11-26-30.png)
