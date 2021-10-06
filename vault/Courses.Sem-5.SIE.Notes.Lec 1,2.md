@@ -2,7 +2,7 @@
 id: 4XJLlcoyncE98wX6AjIAG
 title: Lec 1,2
 desc: ''
-updated: 1633350720475
+updated: 1633367179023
 created: 1633349085865
 ---
 
@@ -19,3 +19,6 @@ created: 1633349085865
 * For y, input - analog; output - digital
 * y1 = f(x)
 *  Considering possibility that function can be incorrect, we can use "look up table".
+* A-D converter has 2 signals to undertake conversion - start pulse/ start conversion and end of conversion(EOC )
+* After EOC is done, then read values of y1
+* ![](/assets/images/2021-10-04-22-36-15.png)

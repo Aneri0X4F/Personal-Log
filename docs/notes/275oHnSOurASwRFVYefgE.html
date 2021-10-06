@@ -171,7 +171,7 @@
     <meta itemprop="headline" content="Lec 6">
     
     <meta itemprop="datePublished" content="2021-09-11T18:54:59+00:00">
-    <meta itemprop="dateModified" content="2021-09-12T11:38:09+00:00">
+    <meta itemprop="dateModified" content="2021-09-28T16:01:51+00:00">
 
     <div class="page__inner-wrap">
 
@@ -208,7 +208,7 @@
 </ul>
 <h2 id="process-switching"><a aria-hidden="true" class="anchor-heading" href="#process-switching"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Process Switching</h2>
 <ul>
-<li>For small amount of time, some process will run and then other will run. This time is very small and hence we see it like all the processes are running parallely.</li>
+<li>For small amount of time, some process will run and then other will run. This time is very sm all and hence we see it like all the processes are running parallely.</li>
 <li>Thus, when one process goes away and other process needs to be loaded, this is called process switching.</li>
 <li>Process switching is totally different than mode switching. In a process execution, there may occur mode switching. </li>
 <li>Mode switching means switching from user to kernal mode vice versa.</li>
@@ -256,13 +256,23 @@
 </blockquote>
 <h2 id="different-designs"><a aria-hidden="true" class="anchor-heading" href="#different-designs"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Different designs</h2>
 <ul>
-<li>Non-process Kernel</li>
-<li>Execution within User Processes
+<li>
+<p>Non-process (seperate krnal)</p>
 <ul>
-<li><img src="/Personal-Log/assets/images//assets/images/2021-09-06-08-36-42.png"></li>
+<li>Kernel</li>
+<li>kernel was not aconsidered as process since it had its own data struct etc.</li>
 </ul>
 </li>
-<li>Process-based OS
+<li>
+<p>Execution within User Processes</p>
+<ul>
+<li><img src="/Personal-Log/assets/images//assets/images/2021-09-06-08-36-42.png"></li>
+<li>no witching of process.</li>
+<li>each process had seperate OS and kenel was implemented directly. </li>
+</ul>
+</li>
+<li>
+<p>Process-based OS</p>
 <ul>
 <li><img src="/Personal-Log/assets/images//assets/images/2021-09-06-08-37-48.png"></li>
 <li>More like microkernel architecture.</li>
@@ -280,8 +290,8 @@
 <li>Kernel mode to execture instructions that belong to kernel</li>
 </ul>
 </li>
-<li>Process with ID 1 = Linux boots and creates a swapper process which in turn creates init process with ID = 1.</li>
-<li>This init process creates all the process required to run Linux on boot up.</li>
+<li>Process with ID 0 = Linux boots and creates a <strong>swapper</strong> process which in turn creates init process with ID = 1.</li>
+<li>This init process creates all the process required to run Linux on boot up. Init process is the parent of all processes.</li>
 <li>init process works only in kernel mode.</li>
 <li>Some other process that execute only in kernel mode include dispatcher etc.</li>
 <li>States
@@ -303,22 +313,35 @@
 <ul>
 <li>User-Level Context
 <ul>
-<li><img src="/Personal-Log/assets/images//assets/images/2021-09-09-11-14-50.png"></li>
+<li>Process text - executable machine instructions for program</li>
+<li>Process data - data used by the process</li>
+<li>User stack - conatins arguments, local variabels, pointers for executing user mode</li>
+<li>Shared memory - memory shared with other processes, used for innterprocess communication.</li>
 </ul>
 </li>
 <li>Register Context
 <ul>
-<li><img src="/Personal-Log/assets/images//assets/images/2021-09-09-11-15-08.png"></li>
+<li>Program counter - address of next instruction to be executed</li>
+<li>Processor state register - has different flag</li>
+<li>stack pointer - points to top of kernel or user stackdepending on mode of execution.</li>
+<li>General purposee registers - hardware dependent</li>
 </ul>
 </li>
 <li>System-Level Context
 <ul>
-<li><img src="/Personal-Log/assets/images//assets/images/2021-09-09-11-15-54.png"></li>
+<li>Process table entry - defines state of a process - STATIC
+<ul>
+<li>contains data of a process that must be always accessible to kernel</li>
+</ul>
+</li>
+<li>U area - PCB is divided in 3 parts - 3rd - any specific info of a process in U area is only accisible when that process is in running state. - DYNAMIC</li>
+<li>per process region table - STATIC </li>
+<li>kernel stack - maintaining system level context - DYNAMIC</li>
 <li>Most of the information regarding PCB is maintained in process table and they <strong>must be accessible to kernel.</strong></li>
 <li>U Area - Most of the process control information is present in U area. This is also a part of PCB. However, majority of information related to PCB is present in Process table.</li>
 <li>Information in U area is accessible to a process only if it is in running state.</li>
 <li>1st and 3rd are static DS means they will not change during the life of a process.</li>
-<li>2nd and 4th are dynamic data structure and will change according to various states of the process.</li>
+<li>2 - process control info. nd and 4th are dynamic data structure and will change according to various states of the process.</li>
 </ul>
 </li>
 </ul>
