@@ -2,10 +2,43 @@
 id: jQL16vRHi5cJXRwQHQLrx
 title: Notes1
 desc: ''
-updated: 1632132728007
+updated: 1633543101926
 created: 1630900411882
 ---
 
+# Concepts
+* Funnctionalist, Structuralist, Behaviourist (1,2)
+* Gestalt psychology -  (fill in incomplete) (2)
+* Johari Window (2)
+* Organisation-Behaviourist model {input, process, output}(3)
+* Learning (4)
+* Experience (4)
+* Classical conditioning {uncn/cnditn stim/resp}(4)
+* Operant conditioning {behaviour is fn of consequences}(4)
+* Social Learning Theory {Observing others and gaining exp} (5)
+    * Vicarious reinforcement {nto imp to behave, but can observe and get experience}
+    * Attention, Retention, Motor reproduction, reinforcement
+* Piaget's (6)
+    * Schemes - Assimilationand Acomodation
+    * Operation - Cause and effect, Conservation of substance
+    * 4 stages in children
+* Vigotsky's (6)
+* Zone of Proximal Development {scaffolding} (7)
+* Perception {Factors: Perceiver, Target Setting | conflict - motive, interest, expectations}(7)
+* Attribution Theory {Internal or extrnal behaviour DISCCO-CAB} (8)
+* Errors in Perception
+    * Fundamental Attributuon err {judge others, external f << Internal fact}
+    * Self serving bias {Ourselves, subjective blae on ext or int}
+* Shortcut in judging/ perception
+    * Selective perception {choose to interpret}
+    * Halo effect
+    * Horn Effect
+    * Stereotyping
+* Rational descision making model {Explore all possibilities} (10)
+* Bounded Rationality {Not all, but optmiz value} (10)
+* Intution {uNconcious process out of experience} (10)
+
+ 
 ## Psycology
 * The science of behaviour and mind 
 * Application of science to solve human problems
