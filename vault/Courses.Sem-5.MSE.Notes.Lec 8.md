@@ -1,10 +1,11 @@
 ---
-id: w51gdQ0gRcuJd6eSUMSyf
+id: 6UzTM0FLq7I7FxC74iYUR
 title: Lec 8
 desc: ''
 updated: 1631984283722
 created: 1630900411882
 ---
+
 ## Viva questions
 1. line edge deffect
 2. burger defect

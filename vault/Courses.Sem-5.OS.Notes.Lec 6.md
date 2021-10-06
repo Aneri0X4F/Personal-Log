@@ -1,5 +1,5 @@
 ---
-id: 275oHnSOurASwRFVYefgE
+id: lkji4cbSxLqKkfUVptovG
 title: Lec 6
 desc: ''
 updated: 1632825111474
