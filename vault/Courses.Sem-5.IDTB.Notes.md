@@ -2,7 +2,7 @@
 id: jQL16vRHi5cJXRwQHQLrx
 title: Notes1
 desc: ''
-updated: 1633543101926
+updated: 1633545017220
 created: 1630900411882
 ---
 
@@ -37,6 +37,49 @@ created: 1630900411882
 * Rational descision making model {Explore all possibilities} (10)
 * Bounded Rationality {Not all, but optmiz value} (10)
 * Intution {uNconcious process out of experience} (10)
+* Bias in descision making
+    * **Escalation of Commitment**  
+        * an increased commitment to a
+previous decision despite negative information.
+    * **Availability Bias**
+        * the tendency for people to base their judgments on information that is readily available to
+them
+    * **Overconfidence bias**- tendency to overestimate your own
+abilities
+        * Individuals whose intellectual and interpersonal abilities are weakest
+are most likely to have this Bias 
+        *  Research indicated that there is negative correlation between
+entrepreneurs confidence and success rate
+    * **Randomness error**
+        * tendency of individuals to believe that they
+can predict the outcome of random events e.g. wearing ___
+shirt/top to an exam/interview is lucky.
+    * **Hindsight bias**: 
+        * tendency to
+believe falsely, after an
+outcome of an event is
+actually known, that one
+would have accurately
+predicted that outcome. E.g.
+AU Convocation in 2019.
+    * **Confirmation bias:** 
+        * tendency to seek out information that
+reaffirms past choices and to discount information that
+contradicts past judgments. E.g. for/against debate.
+* Values 
+    * basic convictions about what is right, good, or desirable
+    * Terminal vs. Instrumental Values
+    * Terminal values: desirable end-states of existence.
+    * Instrumental values: preferred modes of behavior or means of
+    achieving terminal values. 
+    * Values are convictions that a specific mode of conduct or end state
+    of existence is personally or socially preferable over an opposing
+    mode of conduct or end state of existence.
+* Person-Organization Fit
+    * People who are extrovert and outspoken fit well with aggressive and teamoriented cultures.
+    * People high on agreeableness match up better with a supportive
+    organizational climate than one focused on aggressiveness.
+    * People high on openness to experience fit better in organizations that emphasize innovation rather than standardization.
 
  
 ## Psycology
@@ -169,3 +212,43 @@ employee - get to kno wabout interests and expectations about your boss
 
 ## Assignment 1 - Explain 3 concepts by observing by surroundings or record videos/ enact. Combined 5 mmin total.
 ## Assignment 2 - take a webseris or videos, explain any 3 concepts from the class discussion. and explain how they are visible
+
+personality: sum of ways in which an individulal reacts to and interacts with others
+
+
+personality and infuence the behavior
+
+How to measure personality??
+tests to assess some1s personality
+1. personality tetst: self report | observer ratingi
+weakness of self report: biases, we want to be desirable how society percieves to be good.
+observer rating: ONly when we have suff exp; interac might not be suff enough, biases, can take longer time 
+
+what influences our personality:
+1. situation and fctors
+2. people we are closer to
+3. ENVIRONMENT - 60%
+4. HERIDITY - gender reflexes 40%
+5. personality traits: stable char. of an individual
+
+Myers-Briggs Type indicator (MBTI) - FOR JUDGING PERSONALITY by letters
+1. extrovet vs introvert (E|I)
+2. sensing vs intutive(S|N)
+- practical, focus on ddetails | uncinciuous opinions
+3. thinking vs feeling(T|F)
+4. judging vs perceptive(J|P)
+- need structure | flexi and spontanous
+
+it forces indivudual to fit into one of the dimensions
+
+Big 5 personality model
+1. conscientiousness (Dhoni)
+responsible dependeble, persistent and organized
+are inclined towards OCB: going abv and beyond yr call of duty
+2. Emotional stability| opposite: nuroticism
+- calm, self confid, can work in changing env
+3. extraversion
+- sociable, gregarious,assertive( true to  your stand firmly)
+4. Openness to experience
+- to be intellectually curious, creative and imaginative.
+
