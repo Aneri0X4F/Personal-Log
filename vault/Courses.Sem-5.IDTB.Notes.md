@@ -2,7 +2,7 @@
 id: jQL16vRHi5cJXRwQHQLrx
 title: Notes1
 desc: ''
-updated: 1633545017220
+updated: 1635153073842
 created: 1630900411882
 ---
 
@@ -213,25 +213,23 @@ employee - get to kno wabout interests and expectations about your boss
 ## Assignment 1 - Explain 3 concepts by observing by surroundings or record videos/ enact. Combined 5 mmin total.
 ## Assignment 2 - take a webseris or videos, explain any 3 concepts from the class discussion. and explain how they are visible
 
-personality: sum of ways in which an individulal reacts to and interacts with others
 
+> personality: sum of ways in which an individulal reacts to and interacts with others personality and infuence the behavior
 
-personality and infuence the behavior
-
-How to measure personality??
+## How to measure personality??
 tests to assess some1s personality
 1. personality tetst: self report | observer ratingi
 weakness of self report: biases, we want to be desirable how society percieves to be good.
 observer rating: ONly when we have suff exp; interac might not be suff enough, biases, can take longer time 
 
-what influences our personality:
+## What influences our personality:
 1. situation and fctors
 2. people we are closer to
 3. ENVIRONMENT - 60%
 4. HERIDITY - gender reflexes 40%
 5. personality traits: stable char. of an individual
 
-Myers-Briggs Type indicator (MBTI) - FOR JUDGING PERSONALITY by letters
+## Myers-Briggs Type indicator (MBTI) - FOR JUDGING PERSONALITY by letters
 1. extrovet vs introvert (E|I)
 2. sensing vs intutive(S|N)
 - practical, focus on ddetails | uncinciuous opinions
@@ -241,7 +239,7 @@ Myers-Briggs Type indicator (MBTI) - FOR JUDGING PERSONALITY by letters
 
 it forces indivudual to fit into one of the dimensions
 
-Big 5 personality model
+## Big 5 personality model
 1. conscientiousness (Dhoni)
 responsible dependeble, persistent and organized
 are inclined towards OCB: going abv and beyond yr call of duty
@@ -251,4 +249,36 @@ are inclined towards OCB: going abv and beyond yr call of duty
 - sociable, gregarious,assertive( true to  your stand firmly)
 4. Openness to experience
 - to be intellectually curious, creative and imaginative.
+
+# Situation strength theory
+## Factors taht determing strength of situation
+1. Clarity: duties and responsibility
+* if I am clear in how to behave => Strong situation
+* Eg: Nurse, we in 5 star hotel
+2. Consistency: Degree to which cues regarding work duties and responsibilities are compatible
+* High consistency =>  strong scenario
+* nurse vs manager
+3. Constraints: extent to which freedom to decide acc to his or her own wishes
+* org: bank teller(fix work to do) vs professor(varied acc to faculties- less constraints)
+4. Consequences
+* breaking a law can have huge consequences
+
+> manager - balance the need of situation strength
+
+## Trait Activation Theory
+* Some situations or events activate a trait more than others
+* an sales person job,extraversion will be the quality
+## Attitudes and Comonents
+* Evaluative statements or judgements about people/object
+* Attitude is evaluative statements or judgements about variuos things
+* Attitude ALWAYS have feelings associated with it
+* 3 components of Attitude
+1. Affective: emotional or feeling component
+2. Cognitive: opinion or belief segment of attitude
+3. Behavioural: intention/ actual to behave towards something
+
+
+  
+
+
 
