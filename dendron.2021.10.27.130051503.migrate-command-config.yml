@@ -1,4 +1,4 @@
-maxPreviewsCached: 10
+version: 1
 vaults:
     -
         fsPath: vault
@@ -7,12 +7,15 @@ useNoteTitleForLink: true
 noAutoCreateOnDefinition: true
 noLegacyNoteRef: true
 noXVaultWikiLink: true
+lookupConfirmVaultOnCreate: false
 mermaid: true
 useKatex: true
 autoFoldFrontmatter: true
-usePrettyRefs: true
 dev:
     enablePreviewV2: true
+lookup:
+    note:
+        selectionType: selectionExtract
 journal:
     dailyDomain: daily
     name: journal
@@ -25,7 +28,7 @@ scratch:
     addBehavior: asOwnDomain
 site:
     assetsPrefix: Personal-Log
-    siteUrl: 'https://aneri12345.github.io'
+    siteUrl: https://aneri12345.github.io
     copyAssets: true
     siteHierarchies:
         - root
@@ -38,20 +41,4 @@ site:
         payload:
             - vault
     logo: vault/logo.gif
-version: 2
 initializeRemoteVaults: true
-commands:
-    lookup:
-        note:
-            selectionMode: extract
-            confirmVaultOnCreate: false
-            leaveTrace: false
-    randomNote: {}
-    insertNote:
-        initialValue: templates
-    insertNoteLink:
-        aliasMode: none
-        enableMultiSelect: false
-    insertNoteIndex:
-        enableMarker: false
-dendronVersion: 0.64.0
