@@ -277,6 +277,38 @@ are inclined towards OCB: going abv and beyond yr call of duty
 2. Cognitive: opinion or belief segment of attitude
 3. Behavioural: intention/ actual to behave towards something
 
+___________________________
+
+> _Each of the 3 components: affective/cognitive and behavioural have no directionality. Any 2 or 1 can affect other_. Intention to behave might not pass to behaviour (smoking..)
+## Relationship between Attitude and behaviour
+* Cognitive dissonance: incompatibility between 2 or more attitudes or between behavior and attitude. (Eg: wish to study and wasting time instead)
+* How to deal with dissonance/ guilt:
+1. Importance - wife children etx: imp to leave smoking
+2. Influence - smoking helps me focus
+3. Rewards - i wont b able to take intricate detils if i leave. Rewards can get ressonance down  
+## Attitude at workplace
+* Major attitudes at work place:
+1. Job satisfaction - 
+* Pay: after comfortable pay amount, other job conditions
+* Job conditions: (what kind of autonomy i have, nature of work, independence..)
+* Corporate oscial responsibility: Org. actions to benifit society and enviornment - organizational citizenship behaviour(ocb), life satisafaction..
+2. Job involvement - 
+* degree to which person identifies witha  job
+* actively participates in it
+* Psycological empowermentL belief on the degree of influence over ones job competence and autonomy
+* If i dont work, others wont do as i expected in porject
+3. Organizational commitment - identifying with org. + believes his work is reflection of his self identity
+* individual is less likely to withdraw themmselves since they are loyal
+* Kattapa
+4. Engagement
+* not satisfied, we engage in other things at job (coffee/washroom etc)
+* vice versa
+* POS/ Percieved organizational support: how much org valuesand helps
+* ![](2021-10-29-08-48-56.png)
+5. Percrived organizational support
+
+
+
 
   
 
