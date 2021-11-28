@@ -291,6 +291,7 @@ ___________________________
 1. Job satisfaction - 
 * Pay: after comfortable pay amount, other job conditions
 * Job conditions: (what kind of autonomy i have, nature of work, independence..)
+* **Any value can become antivalue eyond threshold point**: love to possiveness
 * Corporate oscial responsibility: Org. actions to benifit society and enviornment - organizational citizenship behaviour(ocb), life satisafaction..
 2. Job involvement - 
 * degree to which person identifies witha  job
@@ -306,10 +307,63 @@ ___________________________
 * POS/ Percieved organizational support: how much org valuesand helps
 * ![](2021-10-29-08-48-56.png)
 5. Percrived organizational support
+_______________________
 
+1. Job satisfaction: positive feeling for our work place
+## Measure job satisfaction
+1. Amount of work they do 
+2. Engagement
+3. Productivity
+4. Anonymous feedback(Global: how satisfied you are| Detailed: subordinate to asses relationship/culture etc..)
+## What if those are not satisfied
+* Leave organisation
+* Poor performance
+* Counter productive work behavior
+* Can bad mouth
+* Impact- two dimensions
+![](2021-11-01-11-49-58.png)
+## (CWB) Counter productive work behaviour
+* actively damaging organization
+* Majorly because of dissaisfaction
+* Ceiling: using your office resources for personal or phone while working 
+* solution :
+    * Craeting teams
+    * Clearing proper policies
+    * Remove the ideas of injustice
+    * Try promoting teams and not indiivduals
+1. Dissatisfaction with absentism: (+)ve realtionhsip
+* Higher in those areas where num of jobs are higher
+* coz they will switch their mind
+2. Turnover 
+* Push pull effect
+* Push : very dissatisfied
+* Pull : dissatisfied but not searching for any other job, but you get an external call and thus you leave
+> Fatima case: she moulded her job according to her requirements.
+_____________________________________________________________________
 
+# Transaction analysis
 
-
+## Stimulus hunger
+* Infants have this hunger
+* Why imp? to ensure tahat babys brain and mnd is developed.
+* nurons and nervous system should be developed
+## What kind of hunger do we have?
+* Recognition hunger
+* Stroking: satisfies our recognition hunger by smile, nod, hug, pat, frown etc..
+* In absence fo positive strokes, negetive strokes are acceptible.
+* Structure hunger: we want to control what happens to us in our waking hours
+* Individuals can have diferent state of minds in same conversation.
+* States of mind
+    * Ego state - consistent pattern of feelings and experiences which alligns with our behaviour
+        * Parent - while growing up, picked up some instances, repeat same statemnt and repliate that attitude 
+        1. Critical parent - disapproving, control, critize, disciplin, punish
+        2. Nutrutring parent - supportive, warm and protective
+        * Adult - operates like machine, collects data and makes descision
+        1. no feelings or emotions involved
+        * Child ego state - we do not thing before we operate. free to behave in any way we want
+        1. Natural chid ego state - want to run away with plate of pi
+        2. Adapted child ego - we modify beh. to what society approves
+        - excessive Critical parenting, we might become oerly rebelous or submissive.
   
 
 
